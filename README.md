@@ -1,45 +1,30 @@
-# Web3NG Starter Project
+# Web3NG - Empowering Africa Through Grassroot Technology Training
 
-## Overview
-This project is part of the Web3NG Starter Course, a grassroots training initiative with a mission of contributing to global development through technology. The Web3NG course emphasizes practical skills in Linux (default work environment), fundamental computing, collaboration, artificial intelligence, and research. As a final project, each student develops a personal portfolio website to showcase their learning journey and achievements.
+## About Us
+Web3NG is a grassroots training initiative led by indigenous African and global tech entrepreneurs. Our mission is to empower individuals with high-quality tech skills that foster innovation, economic growth, and personal development across Africa. Through collaborative training, we aim to make lasting, positive contributions to the continent’s technological landscape, driving forward sustainable change.
 
-## Course Highlights
-- **Linux Environment**: Proficiency in Linux, setting up, and managing a productive development environment.
-- **Core Computing Skills**: Foundational knowledge in computer science and digital literacy.
-- **Collaboration**: Experience with collaborative tools and workflows essential for tech teams.
-- **Artificial Intelligence & Research**: Basic understanding of AI principles and research methods to drive continuous learning.
-  
-## Project Features
-- **Portfolio Showcase**: A professional and responsive portfolio website to present skills and completed projects.
-- **Decentralized Elements**: Integration with Web3 technologies to gain hands-on experience with blockchain concepts.
-- **Frontend & Backend Development**: Built with modern web technologies, providing a comprehensive view of full-stack development.
-  
-## Technologies Used
-- **Linux** for development environment
-- **HTML, CSS, JavaScript** for frontend
-- **Node.js** for backend
-- **Web3.js** for blockchain interactions
+## Our Vision
+In alignment with the United Nations Sustainable Development Goals (SDGs), Web3NG is committed to:
+- **Quality Education**: Providing accessible, relevant tech skills training.
+- **Decent Work and Economic Growth**: Equipping individuals with in-demand skills that open doors to stable employment and entrepreneurial opportunities.
+- **Reduced Inequality**: Bridging the digital divide through inclusive, grassroots training.
+- **Partnerships for the Goals**: Collaborating with industry leaders and stakeholders to maximize our impact.
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/web3ng_starters
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Deploy the smart contract (if applicable):
-   ```bash
-   truffle migrate
-   ```
-4. Run the development server:
-   ```bash
-   npm start
-   ```
+## Courses We Offer
+Each course integrates practical skills with essential theory, preparing students to succeed in a competitive tech environment:
+- **Computer Appreciation**: Gaining a solid understanding of essential computing principles.
+- **Deep Dive in Linux**: Mastering Linux as a versatile, powerful work environment.
+- **Introduction to Artificial Intelligence**: Learning the foundations of AI and its applications.
+- **Introduction to Sertelite Technology**: Exploring innovative uses and applications in tech.
+- **Introduction to Blockchain Technology**: Understanding the basics of blockchain and decentralized technologies.
+- **Collaboration & Research**: Developing essential skills for teamwork, research, and effective communication.
+- **Portfolio Project**: Building a personal portfolio to showcase skills and project experience.
 
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue for any bug reports or feature requests.
+## Why Web3NG?
+At Web3NG, students gain both technical skills and access to a community of peers and mentors. Our curriculum is designed to foster critical thinking, adaptability, and a growth mindset, preparing our students for meaningful roles in the tech industry and beyond.
 
-## License
-This project is licensed under the MIT License.
+## Join Us
+Whether you're a stakeholder, industry leader, or potential partner, there is an opportunity to help create positive economic and social impact today. Together, we can empower the next generation of tech innovators in Africa.
+
+## Contact
+For partnership inquiries, program information, or to support our initiatives, please contact us at [+234 9076588340]
